@@ -1,2 +1,2 @@
 # Arduino_Kursu
-Vermiş olduğum kursdaki dökümanlarımı paylaşıyorum. Şimdiden iyi eğlenceler.
+Vermiş olduğum kursdaki dökümanlarımı paylaşıyorum. Şimdiden eğlenceli kodlamalar.
